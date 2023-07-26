@@ -1,0 +1,8 @@
+real 1 min = 12mins
+real 5 min = 60mins
+real 1 hour = 12hours
+real 1 day = 12days
+real 1 month = 12months
+real 840 (14hours) min = 1 week (168hours) (10,080minutes)
+real 15 day = 180 days (6months)
+real 10 months = 3650 days (120months) (10years)
